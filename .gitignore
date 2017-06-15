@@ -1,0 +1,17 @@
+*.pyc
+.project
+.pydevproject
+.settings/*
+/data/*
+/data
+*test.yaml
+*.DS_Store
+/build
+/dist
+/Cola.egg-info
+/.idea
+chatpair.txt
+testocr.py
+pin.png
+uid.yaml
+weibo.yaml
